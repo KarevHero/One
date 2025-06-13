@@ -3,7 +3,7 @@ from aiogram import Bot, Dispatcher
 from aiogram.types import Message
 from aiogram.filters import Text, Command
 
-API_KEY : str = '6092090538:AAH526wRvDzVpnpqyjObfJbPyTtURIrefDM'
+API_KEY : str = ''
 bot : Bot = Bot(API_KEY)
 dp : Dispatcher = Dispatcher()
 
