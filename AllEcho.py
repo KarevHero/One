@@ -2,7 +2,7 @@ from aiogram import Bot, Dispatcher
 from aiogram.types import Message
 from aiogram.filters import Command
 
-API_TOKEN : str = '6092090538:AAH526wRvDzVpnpqyjObfJbPyTtURIrefDM'
+API_TOKEN : str = ''
 
 bot : Bot = Bot(token=API_TOKEN)
 dp : Dispatcher = Dispatcher()
